@@ -19,6 +19,4 @@ A simple, responsive Rock Paper Scissor game built with vanilla HTML, CSS, and J
 - CSS3
 - Vanilla JavaScript (no frameworks or libraries)
 
-## 📸 Preview
 
-*(Optional: add a screenshot or GIF of your game here)*
